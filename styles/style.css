@@ -230,6 +230,7 @@
     height:700px;
     background-image: url("../img/background1.jpg");
     background-repeat: no-repeat;
+    background-size: cover;
     margin:0 auto;
     }
 .block-4__main{
